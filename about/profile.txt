@@ -1,1 +1,2 @@
 Гиренков Александр
+beginner in Python
