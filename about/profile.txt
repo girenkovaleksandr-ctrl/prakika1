@@ -1,4 +1,5 @@
 Гиренков Александр
 beginner in Python
  girenkovaleksandr@gmail.com
-изменено в вебе
+изменено в 3 сценарии
+
